@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/MITLibraries/lita-timdex
+  revision: da5275dd68401da09252ea4322c0d68eba0c460e
+  specs:
+    lita-timdex (0.1.0)
+      lita (>= 4.7)
+      timdex-ruby (= 0.1.4)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -31,6 +39,8 @@ GEM
     redis-namespace (1.6.0)
       redis (>= 3.0.4)
     thor (0.20.3)
+    timdex-ruby (0.1.4)
+      faraday (~> 0)
     url_mount (0.2.1)
       rack
 
@@ -39,6 +49,7 @@ PLATFORMS
 
 DEPENDENCIES
   lita
+  lita-timdex!
 
 BUNDLED WITH
    2.0.1

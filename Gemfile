@@ -12,3 +12,5 @@ gem "lita"
 # For example:
 # gem "lita-google-images"
 # gem "lita-karma"
+
+gem 'lita-timdex', git: 'https://github.com/MITLibraries/lita-timdex'
