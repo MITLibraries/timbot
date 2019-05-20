@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/MITLibraries/lita-timdex
-  revision: 335cd5101dc65ae3b2f848deba54b3687d2b63b0
+  revision: 405982b36623a7b4b1fb61e4fdd4f47353fa74a0
   specs:
     lita-timdex (0.1.0)
       lita (>= 4.7)
